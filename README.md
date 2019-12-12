@@ -1,2 +1,3 @@
-# gpt-2-satire-samples
-Generated samples for gpt-2-satire
+# gpt-2-satire-public
+
+Contains generated samples and the scraper used to collect the corpus
